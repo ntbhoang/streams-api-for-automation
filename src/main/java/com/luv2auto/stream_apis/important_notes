@@ -1,0 +1,13 @@
+Array / List / Set / HashMap -> data structure
+
+
+But Stream is not data structure:
+- Stream is not a data structure that stores elements;
+instead, it conveys elements from a source such as a data structure, an array, a generator function, or an I/O channel,
+through a pipeline of computational operations.
+
+- Functional programming - chained operations
+- Laziness
+- No size
+- No addition, no removal
+
